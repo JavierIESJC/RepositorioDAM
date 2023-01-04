@@ -1,1 +1,7 @@
 Creando un nuevo documento 2
+
+
+En esta línea habrá un conflicto
+
+
+Añado la línea 7
