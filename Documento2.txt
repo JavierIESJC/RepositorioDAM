@@ -1,1 +1,4 @@
-Creando un nuevo documento 2
+Creando un nuevo documento 2, añado aquí una frase
+
+
+En la línea 4, conflicto
